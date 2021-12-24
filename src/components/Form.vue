@@ -38,6 +38,11 @@ export default {
           available: 6,
           quantity: 0,
         },
+        {
+          name: "Matrix",
+          available: 7,
+          quantity: 0,
+        },
       ],
     };
   },
