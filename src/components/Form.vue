@@ -43,6 +43,11 @@ export default {
           available: 7,
           quantity: 0,
         },
+        {
+          name: "Ice Age",
+          available: 9,
+          quantity: 0,
+        },
       ],
     };
   },
