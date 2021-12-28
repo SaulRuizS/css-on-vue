@@ -53,6 +53,11 @@ export default {
           available: 3,
           quantity: 0,
         },
+        {
+          name: "Star Wars",
+          available: 11,
+          quantity: 0,
+        },
       ],
     };
   },
