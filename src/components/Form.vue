@@ -58,6 +58,11 @@ export default {
           available: 11,
           quantity: 0,
         },
+        {
+          name: "Don't look Up",
+          available: 8,
+          quantity: 0,
+        },
       ],
     };
   },
